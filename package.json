@@ -1,0 +1,9 @@
+{
+  "name": "frasier-facts",
+  "repository": "https://github.com/alicerehfeldt/frasier",
+  "license": "none",
+  "version": "0.0.0",
+  "dependencies": {
+    "twitter": "^1.4.0"
+  }
+}
